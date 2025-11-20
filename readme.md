@@ -13,6 +13,7 @@ Go to [tasd.io](https://tasd.io/) for the latest TASD specification. The source 
 * [Dumping](#dumping)
 * [Editing](#editing)
 * [Libraries](#libraries)
+* [Replay Devices](#replay-devices)
 
 ## Community
 
@@ -33,3 +34,7 @@ Go to [tasd.io](https://tasd.io/) for the latest TASD specification. The source 
 * [Python](https://pypi.org/project/tasd/)
 * [Rust](https://docs.rs/tasd)
 * [Typescript/Javascript](https://www.npmjs.com/package/@themas3212/tasd)
+
+## Replay Devices
+
+* [TAStm32](https://github.com/Ownasaurus/TAStm32)
