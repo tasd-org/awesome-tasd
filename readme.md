@@ -37,4 +37,4 @@ Go to [tasd.io](https://tasd.io/) for the latest TASD specification. The source 
 
 ## Replay Devices
 
-* [TAStm32](https://github.com/Ownasaurus/TAStm32)
+* [TAStm32](https://github.com/Ownasaurus/TAStm32) - Powered by the STM32F4 microcontroller, this is a commonly used replay device among the TASBot community
